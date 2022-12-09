@@ -1,5 +1,6 @@
 package Exceptions_Homework.Homework1;
 
+
 //Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
 import java.util.Random;

@@ -5,6 +5,7 @@ package Exceptions_Homework.Homework1;
 // двух входящих массивов в той же ячейке.
 //Если длины массивов не равны, необходимо как-то оповестить пользователя.
 
+
 import java.util.Random;
 
 public class Task2 {

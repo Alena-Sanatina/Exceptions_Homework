@@ -5,6 +5,7 @@ package Exceptions_Homework.Homework1;
 //Если длины массивов не равны, необходимо как-то оповестить пользователя.
 //Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
 
+
 import java.util.Random;
 
 public class Task3 {
